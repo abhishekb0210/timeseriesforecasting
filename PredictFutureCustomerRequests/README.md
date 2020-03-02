@@ -1,1 +1,1 @@
-### This project reflects the implementations for TIme Series forecasting using LSTM and ARIMA model with single variable and multiple variables
+### This project reflects the implementations for Time Series forecasting using LSTM and ARIMA model with single variable and multiple variables
